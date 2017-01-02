@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Assured Construction</title>
+<!-- TemplateEndEditable -->
+<link href="../css/assured.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div class="top-logo-nav-container">
+  <div class="tile-container"><img src="../images/tile_triangle.gif" alt="assured construction tile"/></div>
+  <div class="top-bar"></div>
+  <div class="logo-bar"></div>
+  <nav>
+  <h2 id="menulink"><a href="#navlinks">Menu</a></h2>
+  <ul class="displayed" id="navlinks">
+      <li><a href="../index.html">HOME</a></li>
+      <li><a href="../about.html">ABOUT ME</a></li>
+      <li><a href="../services.html">MY SERVICES</a></li>
+      <li><a href="../my-work.html">MY WORK</a></li>
+      <li><a href="../contact.html">CONTACT ME</a></li>
+    </ul>
+	  </nav>
+</div>
+<!-- TemplateBeginEditable name="Main-Content" --><main>
+	Content goes here
+</main><!-- TemplateEndEditable -->
+
+<footer>
+    <ul>
+      <li><a href="../index.html">HOME |</a></li>
+      <li><a href="../about.html">ABOUT ME |</a></li>
+      <li><a href="../services.html">MY SERVICES |</a></li>
+      <li><a href="../my-work.html">MY WORK |</a></li>
+      <li><a href="../contact.html">CONTACT ME</a></li>
+    </ul>
+	<p>  &copy; 2016 Assured Construction</p>
+	<script type="text/javascript" src="../scripts/menu.js"></script>
+</footer>
+
+
+</body>
+</html>
