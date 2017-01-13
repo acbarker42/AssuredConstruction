@@ -1,4 +1,14 @@
 /*Assured Construction CSS - Autumn Barker Jan 2017*/
+@charset "utf-8";
+/* CSS Document */
+/*Simplify width and height calculations*/
+html {
+	box-sizing:border-box;
+}
+*, *:before,
+*:after {
+	box-sizing:inherit;
+}
 body {
 		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 		margin:0;
@@ -151,8 +161,8 @@ main {
 		clear: both;
 		width: 70%;
 		border: 1px solid black;
-	text-align: center;	
-	margin: 50px;
+		text-align: center;	
+		margin: 50px;
 
 		
 }
@@ -272,10 +282,9 @@ footer p {
 
 
 /* Desktop query */
-@media (min-width : 768px ){
-	body{
-		min-width: 768px; 
-	}
+@media (min-width: 700px){
+	
+
 .tile-container {
 	display:block;
 	clear: both;
