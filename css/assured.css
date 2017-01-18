@@ -161,7 +161,7 @@ main {
 .about img{
 	clear: both;
 	width: 100%;
-	border: 1px solid black;	
+	
 }
 .about p{
 		padding: 10px;
@@ -170,12 +170,8 @@ main {
 .service {
 	overflow: auto;
 	padding: 20px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin: 20px;
 	border: 1px solid black;
-	
 }
 
 .service h3 {
@@ -185,11 +181,11 @@ main {
 	
 	clear: both;
 	width: 100%;
-	padding: 30px;
+	padding: 10px;
 }
 .gallery{
 	width: 100%;
-	margin: 20px;
+	margin-top: 20px;
 	float:left;
 }
 .contact{
@@ -324,6 +320,7 @@ footer p {
 		clear:both;
 		float: left;
 		width: 40%;
+		margin: 40px;
 	}
 	.about p {
 		padding: 50px;
@@ -356,6 +353,7 @@ footer p {
 }
 	.gallery{
 	width: 30%;
+	margin: 20px;
 	}
 
 	.service {
